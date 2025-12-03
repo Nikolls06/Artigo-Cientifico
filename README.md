@@ -1,22 +1,3 @@
-**artigo/**  
-- ArtigoCien_Reprovacao_EF_Abandono_EM_2015_2024.pdf — PDF completo do artigo.
-
-**dados/**  
-- base_regioes_repro_aband_2015_2024.xlsx — Base de dados estruturada (região × ano).
-
-**notebook/**  
-- ArtigoCien_Reprovacao_EF_Abandono_EM_2015_2024.ipynb — Jupyter Notebook com toda a análise exploratória.
-
-**src/**  
-- Scripts Python utilizados na análise.
-
-**requirements.txt**  
-- pandas  
-- matplotlib  
-- numpy  
-
----
-
 ## 🧠 Objetivo do Estudo
 
 Investigar se regiões com maiores taxas de reprovação no Ensino Fundamental apresentam maiores taxas de abandono no Ensino Médio, configurando um ciclo de exclusão escolar.
@@ -47,3 +28,4 @@ Investigar se regiões com maiores taxas de reprovação no Ensino Fundamental a
 - Reduzir reprovação é fundamental para prevenir evasão escolar.  
 
 ---
+
